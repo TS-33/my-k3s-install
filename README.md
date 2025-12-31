@@ -1,3 +1,6 @@
+仅适用于amd64 ubuntu 20.04及以上操作系统。
+</br>
+</br>
 使用命令：</br>
 ```shell
 source ./k3s_init.sh
