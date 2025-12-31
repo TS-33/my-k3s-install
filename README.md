@@ -1,6 +1,6 @@
 使用命令：</br>
 ```shell
-. <(cat ./k3s-init.sh)
+. <(cat ./k3s_init.sh)
 ```
 初始化一个k3s master节点（会自动安装nerdctl和cni-plugins) </br>
 注意需要节点能访问github，否则nerdctl会下载失败。 </br> </br>
